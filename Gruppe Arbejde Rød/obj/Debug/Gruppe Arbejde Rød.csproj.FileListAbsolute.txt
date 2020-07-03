@@ -1,0 +1,13 @@
+C:\Users\marst\source\repos\Gruppe Arbejde Rød\Gruppe Arbejde Rød\bin\Debug\Gruppe Arbejde Rød.exe.config
+C:\Users\marst\source\repos\Gruppe Arbejde Rød\Gruppe Arbejde Rød\bin\Debug\Gruppe Arbejde Rød.exe
+C:\Users\marst\source\repos\Gruppe Arbejde Rød\Gruppe Arbejde Rød\bin\Debug\Gruppe Arbejde Rød.pdb
+C:\Users\marst\source\repos\Gruppe Arbejde Rød\Gruppe Arbejde Rød\obj\Debug\Gruppe Arbejde Rød.csprojAssemblyReference.cache
+C:\Users\marst\source\repos\Gruppe Arbejde Rød\Gruppe Arbejde Rød\obj\Debug\Gruppe Arbejde Rød.csproj.CoreCompileInputs.cache
+C:\Users\marst\source\repos\Gruppe Arbejde Rød\Gruppe Arbejde Rød\obj\Debug\Gruppe Arbejde Rød.exe
+C:\Users\marst\source\repos\Gruppe Arbejde Rød\Gruppe Arbejde Rød\obj\Debug\Gruppe Arbejde Rød.pdb
+C:\Users\tamal\Desktop\repos\Gruppe Arbejde Rød\Gruppe Arbejde Rød\bin\Debug\Gruppe Arbejde Rød.exe.config
+C:\Users\tamal\Desktop\repos\Gruppe Arbejde Rød\Gruppe Arbejde Rød\bin\Debug\Gruppe Arbejde Rød.exe
+C:\Users\tamal\Desktop\repos\Gruppe Arbejde Rød\Gruppe Arbejde Rød\bin\Debug\Gruppe Arbejde Rød.pdb
+C:\Users\tamal\Desktop\repos\Gruppe Arbejde Rød\Gruppe Arbejde Rød\obj\Debug\Gruppe Arbejde Rød.csprojAssemblyReference.cache
+C:\Users\tamal\Desktop\repos\Gruppe Arbejde Rød\Gruppe Arbejde Rød\obj\Debug\Gruppe Arbejde Rød.exe
+C:\Users\tamal\Desktop\repos\Gruppe Arbejde Rød\Gruppe Arbejde Rød\obj\Debug\Gruppe Arbejde Rød.pdb
